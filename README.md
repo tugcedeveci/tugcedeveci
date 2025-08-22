@@ -6,4 +6,4 @@
 Here are some ideas to get you started:
 -->
 
--  📚 I’m studying computer engineering at Erciyes University
+
